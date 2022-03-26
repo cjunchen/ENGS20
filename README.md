@@ -1,5 +1,5 @@
 # ENGS20
-## C and MATLAB code projects
+## C and MATLAB code projects from ENGS20 Dartmouth course
 
 ### bestfitLA1.c
 Assignment 1: C
